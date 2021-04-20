@@ -1,0 +1,5 @@
+pytorch-lightning
+torch
+torchvision
+pytorchvideo
+typer
