@@ -1,10 +1,6 @@
 # PyTorch Video Classification
 
-## Getting Started
-
-```
-pip install -r requirements.txt
-```
+<a href="https://colab.research.google.com/gist/nateraw/45c4ea2d00db2c6432d2854b759281f7/ptv-classification.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## Usage
 
